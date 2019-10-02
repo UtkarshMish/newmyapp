@@ -1,0 +1,18 @@
+h3 {
+  text-align: center;
+  font-size: 83px;
+  background: radial-gradient(circle, #f35 0%, #43e 100%) no-repeat;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+}
+h4 {
+  text-align: center;
+  font-size: 83px;
+  background: radial-gradient(ellipse at 60px, #f35 0%, #43e 100%) no-repeat;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+}
